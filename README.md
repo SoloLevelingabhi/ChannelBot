@@ -1,4 +1,9 @@
-# Channel Automation Bot [@ChannelAutomateBot](https://t.me/ChannelAutomateBot)
+https://heroku.com/deploy?template=https://github.com/SoloLevelingabhi/ChannelBot
+
+
+https://github.com/StarkBotsIndustries/ChannelBot
+#
+ Channel Automation Bot [@ChannelAutomateBot](https://t.me/ChannelAutomateBot)
 
 > A star ⭐ from you means a lot to us!
 
